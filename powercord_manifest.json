@@ -1,0 +1,10 @@
+{
+    "name": "Maria's Theme",
+    "description": "My theme!",
+    "version": "0.0.1",
+    "author": "minimar",
+    "theme": "source.css",
+    "consent": "false",
+    "splashTheme": "splash.css",
+    "license": "MIT"
+}

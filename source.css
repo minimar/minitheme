@@ -1,0 +1,14 @@
+.theme-dark {
+	--text-normal: #f7a4f1;
+	--interactive-normal: #f7a4f1;
+	--interactive-active: #f7a4f1;
+	--background-primary: #000000;
+	--background-secondary: #000000;
+	--background-secondary-alt: #000000;
+	--background-tertiary: #000000;
+	--background-floating: #000000;		
+	--scrollbar-auto-thumb: #f7a4f1;
+	--scrollbar-thin-thumb: #f7a4f1;
+	--channels-default: #868686;
+	--channeltextarea-background: #000000;
+}
